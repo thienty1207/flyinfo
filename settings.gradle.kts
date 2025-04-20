@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "flyinfo"
 include(":app")
+ 
